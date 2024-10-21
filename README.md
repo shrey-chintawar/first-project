@@ -1,3 +1,3 @@
 # first-project
 This is my first git Repository
-author-shrey chintawar
+author-shrey chintawar(github)
